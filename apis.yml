@@ -1,0 +1,32 @@
+aid: quran-api
+name: Quran-api
+description: "Free Quran API Service with 90+ different languages and 400+ translations"
+url: https://github.com/fawazahmed0/quran-api#readme
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Books"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Books
+  - Public APIs
+apis:
+  - name: Quran-api
+    description: "Free Quran API Service with 90+ different languages and 400+ translations"
+    humanURL: https://github.com/fawazahmed0/quran-api#readme
+    baseURL: https://github.com/fawazahmed0/quran-api#readme
+    tags:
+      - Books
+    properties:
+      - type: Documentation
+        url: https://github.com/fawazahmed0/quran-api#readme
+common:
+  - type: Website
+    url: https://github.com/fawazahmed0/quran-api#readme
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
